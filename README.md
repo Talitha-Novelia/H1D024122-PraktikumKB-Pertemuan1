@@ -1,4 +1,4 @@
-<img width="795" height="522" alt="Screenshot 2026-03-17 202914" src="https://github.com/user-attachments/assets/72f4e67b-4277-45e3-a762-fef12eda8e63" /><img width="795" height="522" alt="image" src="https://github.com/user-attachments/assets/57af13d6-4111-424d-96fb-10852c3043ae" /># H1D024122-PraktikumKB-Pertemuan1
+># H1D024122-PraktikumKB-Pertemuan1
 
 Program sederhana penilaian mahasiswa menggunakan Python.
 # Fitur yang digunakan:
@@ -58,3 +58,8 @@ Pesan untuk Mahasiswa
   Dewi -> Belum lulus, nilai 41. Tingkatkan lagi!
   Eko -> Selamat, kamu lulus dengan nilai 75.
 ==================================================
+
+<img width="795" height="690" alt="Screenshot 2026-03-17 203529" src="https://github.com/user-attachments/assets/60e90b60-9791-4aaf-bc46-b37adbd2d452" />
+
+<img width="528" height="465" alt="Screenshot 2026-03-17 203423" src="https://github.com/user-attachments/assets/2bc38405-cc6a-4e5f-bcfc-cfc869d77e0a" />
+
